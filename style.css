@@ -1,6 +1,6 @@
 body {
     font-family: monospace;
-    font-size: clamp(12px, 1vw, 32px);
+    font-size: clamp(12px, 3vw, 24px);
     white-space: pre;
     padding: 0;
     margin: 0;
